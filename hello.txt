@@ -1,1 +1,1 @@
-hi there
+hi there, back for 2nd change, adding text after enabling log
